@@ -1,0 +1,33 @@
+body {
+    width: 130px;
+    height: 120px;  
+    background-image: url('https://picsum.photos/seed/picsum/1280/720');
+    text-align: center;
+    box-sizing: border-box;
+    padding-left: 640px;
+
+}
+
+h1{
+    background-color: black;
+    color: blanchedalmond;
+    width: 200px;
+    height: 150px;
+    padding: 50px; 
+    border: solid 40px red;
+    margin: 30px;
+    border-radius: 20px;
+   
+}
+
+h2 {
+    background-color: black;
+    color: blanchedalmond;
+    width: 200px;
+    height: 150px;
+    padding: 50px; 
+    border: solid 40px red;
+    margin: 30px;
+    border-radius: 20px;
+}
+
