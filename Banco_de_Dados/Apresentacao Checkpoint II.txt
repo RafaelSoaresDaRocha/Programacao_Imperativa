@@ -1,0 +1,8 @@
+Meu projeto é sobre a empresa Gympass, uma empresa que fornece um serviço de conexao entre empresas que querem investir
+no bem-estar e saude de seus funcionarios e academias de ginasticas distribuidas em todo territorio nacional. Esse trabalho
+mostra como é o banco de dados da empresa, onde temos as pricipais entidades empresas, academias e funcionarios, as empresas
+tem uma ligacao de 1:N com funcionarios, e por ter uma conexao de 1:N com as academias e academias ter a mesma ligacao com as empresas
+é criado uma tabela intermediaria chamada empresa_academias. temos tambem outra tabela intermediaria que liga funcionarios e academias
+porque muitas academias podem ter varios funcionarios e muitos funcionarios podem ir a muitas academias, alem da tabela de aulas_online 
+que podem ter muitas aulas para muitos funcionarios. O objetivo desse banco de dados é poder armazenar todos os dados importantes 
+do negocio e assim gerar relatorios mais acertivos para as tomadas de decisão.

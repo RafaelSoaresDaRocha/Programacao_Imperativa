@@ -1,0 +1,15 @@
+FUNCOES DE AGREGACAO
+
+COUNT = Vai retornar a contagem de registros que tenho na tabela
+MAX = Tras o maior valor dentro do conjunto de valores que eu pesquiso
+AVG = Tras o valor medio dos registros
+SUM = Faz a soma da coluna
+
+As fucoes de agregacao devem vir logo apos o SELECT, nao pode ser feita no final
+Pode realizar funcoes matematicas dentro das funcoes
+
+---------------------------------------------------------------------------------------
+FUNCAO DE FORMATACAO
+
+DATA_FORMAT = muda o formato da data	
+DATA_FORMAT(CURDATE(), '%d/%m/%y') = data atual
